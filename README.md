@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmet Faruk Demir 👋</h1>
-<h3 align="center">Full Stack Web Developer | Architect of Complex Web Applications</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left">
   I am a passionate Full Stack Developer specializing in the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js). I focus on building scalable, secure, and highly interactive web applications. I love solving complex architectural problems, managing cloud deployments, and creating seamless user experiences.
