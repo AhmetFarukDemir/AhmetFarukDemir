@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ahmet Faruk Demir 👋</h1>
+<h3 align="center">Full Stack Web Developer | Architect of Complex Web Applications</h3>
 
-<!--
-**AhmetFarukDemir/AhmetFarukDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I am a passionate Full Stack Developer specializing in the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js). I focus on building scalable, secure, and highly interactive web applications. I love solving complex architectural problems, managing cloud deployments, and creating seamless user experiences.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Frontend:** React, Zustand, Tailwind CSS, Framer Motion, Vite
+* **Backend:** Node.js, Express.js, RESTful APIs, CORS Management
+* **Database:** MongoDB, Mongoose
+* **Auth & Security:** Clerk (Webhook Integration, Event Verification), JWT
+* **Deployment & Cloud:** Vercel, Render, MongoDB Atlas
+
+---
+
+### 🚀 Featured Project: BlockRealm
+Currently developing **[BlockRealm](https://block-realm-three.vercel.app)**, a browser-based RPG game that showcases my full-stack capabilities. 
+* **Client-Server Architecture:** Secure backend validation for all game mechanics (mining, crafting, economy) to prevent client-side manipulation.
+* **Authentication:** Implemented Clerk with custom Svix Webhook verification to sync user creation directly to MongoDB.
+* **State Management:** Complex frontend state handled via Zustand, seamlessly synced with the cloud database.
+* **Cloud Deployment:** Frontend hosted on Vercel, Backend running on Render with strict CORS policies.
+
+➡️ **[Check out the repository](https://github.com/AhmetFarukDemir/BlockRealm)**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetFarukDemir&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukDemir&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/AhmetFarukDemir](https://github.com/AhmetFarukDemir)
+* **Email:** demirahmetfaruk@gmail.com
+
+<p align="center">
+  <i>"Writing code is easy; building architecture is an art."</i>
+</p>
