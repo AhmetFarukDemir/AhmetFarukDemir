@@ -39,7 +39,7 @@ Currently developing **[BlockRealm](https://block-realm-three.vercel.app)**, a b
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/AhmetFarukDemir](https://github.com/AhmetFarukDemir)
+* **LinkedIn:** [linkedin.com/in/ahmetdemir31](https://www.linkedin.com/in/ahmetdemir31)
 * **Email:** demirahmetfaruk@gmail.com
 
 <p align="center">
