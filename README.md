@@ -31,7 +31,7 @@ Currently developing **[BlockRealm](https://block-realm-three.vercel.app)**, a b
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetFarukDemir&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
+  <img src="https://github-readme-stats-ten-gold-43.vercel.app/api?username=AhmetFarukDemir&show_icons=true&theme=radical" alt="Ahmet's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukDemir&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
