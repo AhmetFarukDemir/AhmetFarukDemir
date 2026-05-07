@@ -41,7 +41,3 @@ Currently developing **[BlockRealm](https://block-realm-three.vercel.app)**, a b
 
 * **LinkedIn:** [linkedin.com/in/ahmetdemir31](https://www.linkedin.com/in/ahmetdemir31)
 * **Email:** demirahmetfaruk@gmail.com
-
-<p align="center">
-  <i>"Writing code is easy; building architecture is an art."</i>
-</p>
